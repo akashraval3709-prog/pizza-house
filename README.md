@@ -4,7 +4,7 @@ A premium, fully responsive, and modern restaurant landing page designed to prov
 
 ## 🚀 Live Demo
 You can view the live project here:  
-👉 [Live Project Link]( https://akashraval3709-prog.github.io/Python-to-Cyber-Journey/)
+👉 [Live Project Link]( https://akashraval3709-prog.github.io/pizza-house/)
 
 
 
