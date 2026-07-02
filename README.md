@@ -23,3 +23,10 @@ You can view the live project here:
 
 ## 📂 Project Structure
 
+```text
+pizza-house/
+│
+├── images/             # Image assets (Pizzas, Burgers, Pastas, Reviews)
+├── index.html          # Main semantic HTML markup file
+└── style.css           # Core stylesheet including responsive media queries
+       
